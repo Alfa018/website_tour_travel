@@ -1,0 +1,19 @@
+.img {
+    width: 50px;
+}
+
+.col-10 .p {
+    justify-content: center;
+}
+#google_translate_element {
+    z-index: 1;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: transparent;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+.goog-te-banner-frame.skiptranslate{display:none!important;}
+  body{top:0px!important;}
